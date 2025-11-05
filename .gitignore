@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+.env
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and debug files
+*.log
+debug_*.html
+debug_initial_load.html
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter (por si usas notebook en desarrollo local)
+.ipynb_checkpoints/
+
+# Local config overrides
+config_local.py
+secrets.py
+
+# Output files (evita subir datos extraídos al repo)
+*.csv
+*.xlsx
+*.json
