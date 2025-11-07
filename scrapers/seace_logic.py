@@ -14,7 +14,7 @@ from playwright.async_api import async_playwright
 # CONFIGURACIÓN GLOBAL
 # ==============================
 
-SEACE_URL = "https://apps2.seace.gob.pe/BuscadorPublico/"
+SEACE_URL = "https://prod6.seace.gob.pe/buscador-publico/contrataciones"
 
 
 # ==============================
